@@ -1,3 +1,4 @@
+
 ## Welcome For All Awesome Developers
 Here, i will log every tips & tricks i will found on the internet
 It a journey for you and me to become a better programmers day after day
@@ -19,7 +20,9 @@ So these tips will have 4 sections
 
  - **Find a outlet**, If you work in the field of programming, you need a hobby that you go to from time to time. Find a hobby that you love and practice it in addition to learning programming so that you can complete your educational journey and work. The hobby is food for the mind and with it you will never feel bored and you will always be open and have the ability to receive new information and delve into In more experiences and get more and more experiences.
 - **Lack of sleep kills you**, sleep deprivation are high blood pressure, diabetes, heart attack, heart failure or stroke and a result of the experiment indicated that sleep deprivation has a negative effect on the capacity of software developers by 50% to produce a software solution that meets given requirements.
+- **Never Be A Arrogant**, becuase thinking you knowing everything and can make anything will make you lose other and it will make you not learn new things (which one of most important pillar in programming) 
 
+- **[Follow 20-20-20 Rule](https://cdn.sanity.io/images/0vv8moc6/optometrytimes/65f90e47ba6d8726a3c9186577d9261c3315dc3a-643x331.png?fit=crop&auto=format)**
 
 
 **The Tips Ends Here**
