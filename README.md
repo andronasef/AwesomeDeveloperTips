@@ -1,5 +1,6 @@
 
 
+
 # ❤️ Awesome Developer Tips and Tricks ❤️
 Here, i will log every tips & tricks i will found on the internet
 It a journey for you and me to become a better programmers day after day
@@ -25,6 +26,7 @@ So these tips will have 4 sections
 
 - **[Follow 20-20-20 Rule](https://cdn.sanity.io/images/0vv8moc6/optometrytimes/65f90e47ba6d8726a3c9186577d9261c3315dc3a-643x331.png?fit=crop&auto=format)**
 
+___
 
 **The Tips Ends Here**
 
