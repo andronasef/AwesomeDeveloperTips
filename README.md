@@ -2,8 +2,11 @@
 Here, i will log every tips & tricks i will found on the internet
 It a journey for you and me to become a better programmers day after day
 
-So this thing will have 4 sections 
-(For ALL Pool) & (Beginners Winners) & (Intermediate Remediate) & (Advanced Glanced)
+So these tips will have 4 sections 
+- For ALL Pool 
+- Beginners Winners 
+- Intermediate Remediate
+- Advanced Glanced
 
 ## For All Pool
 
