@@ -1,5 +1,5 @@
 
-## Welcome For All Awesome Developers
+# ❤️ Awesome Developer Tips and Tricks ❤️
 Here, i will log every tips & tricks i will found on the internet
 It a journey for you and me to become a better programmers day after day
 
