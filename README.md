@@ -1,13 +1,14 @@
 
+
 # ❤️ Awesome Developer Tips and Tricks ❤️
 Here, i will log every tips & tricks i will found on the internet
 It a journey for you and me to become a better programmers day after day
 
 So these tips will have 4 sections 
-- For ALL Pool 
-- Beginners Winners 
-- Intermediate Remediate
-- Advanced Glanced
+- [For All Pool](https://github.com/andronasef/AwesomeDeveloperTips#for-all-pool) 
+- [Beginners Winners](#beginners-winners) 
+- [Intermediate Remediate](#intermediate-remediate)
+- [Advanced Glanced](#advanced-glanced)
 
 ## For All Pool
 
