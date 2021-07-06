@@ -23,12 +23,12 @@ So this thing will have 4 sections
 
 This For You Dude
 
-1st thanks for having a will to become a better developer 
-2nd if you want to add you tips. be free to fork this repo and ask for pull request or make an issue with the tip (and it's section)
-3rd make sure to star this repo bro 
+ - 1st thanks for having a will to become a better developer  
+ - 2nd if you want to add you tips. be free to fork this repo and ask for pull
+   request or make an issue with the tip (and it's section) 
+  - 3rd make sure to star this repo bro
 
 bye. 
-
 
 This For Me 
 - [ ] add 5 tips for each section at least
